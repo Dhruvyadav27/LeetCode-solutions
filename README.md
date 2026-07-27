@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0164-maximum-gap](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0164-maximum-gap) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
