@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0059-spiral-matrix-ii) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0164-maximum-gap) |
 ## Bucket Sort
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3248-snake-in-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/3248-snake-in-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
