@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0164-maximum-gap](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0164-maximum-gap) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [3248-snake-in-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/3248-snake-in-matrix) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0498-diagonal-traverse) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [3248-snake-in-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/3248-snake-in-matrix) |
 ## String
 |  |
