@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0164-maximum-gap](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0164-maximum-gap) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0164-maximum-gap) |
 ## Bucket Sort
 |  |
@@ -76,5 +78,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
