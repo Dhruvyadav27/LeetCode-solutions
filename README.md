@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhruvyadav27/DSA-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3248-snake-in-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/3248-snake-in-matrix) |
 ## Math
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0498-diagonal-traverse) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhruvyadav27/DSA-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3248-snake-in-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/3248-snake-in-matrix) |
 ## String
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0189-rotate-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhruvyadav27/DSA-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Interactive
 |  |
 | ------- |
