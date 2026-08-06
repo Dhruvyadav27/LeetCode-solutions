@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -107,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0410-split-array-largest-sum) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
