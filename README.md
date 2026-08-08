@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0498-diagonal-traverse) |
+| [0875-koko-eating-bananas](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruvyadav27/DSA-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3248-snake-in-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/3248-snake-in-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0410-split-array-largest-sum) |
+| [0875-koko-eating-bananas](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Divide and Conquer
 |  |
