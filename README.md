@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0509-fibonacci-number) |
 ## Sorting
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0392-is-subsequence) |
 | [3248-snake-in-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/3248-snake-in-matrix) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0392-is-subsequence) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruvyadav27/DSA-problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Interactive
 |  |
