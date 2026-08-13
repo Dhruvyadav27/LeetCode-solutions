@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0164-maximum-gap](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0509-fibonacci-number) |
