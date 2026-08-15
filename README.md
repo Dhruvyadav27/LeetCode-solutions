@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1025-divisor-game) |
 ## Matrix
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1025-divisor-game) |
 ## Sorting
 |  |
 | ------- |
@@ -135,4 +137,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0231-power-of-two) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
