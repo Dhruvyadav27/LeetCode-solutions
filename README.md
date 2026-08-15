@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0119-pascals-triangle-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0231-power-of-two) |
 ## Brainteaser
 |  |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1025-divisor-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
