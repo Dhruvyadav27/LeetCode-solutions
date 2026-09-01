@@ -1,28 +1,29 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-       List<List<Integer>> ans = new ArrayList<>();
-       List<Integer> output = new ArrayList<>(); 
-       int index = 0;
-       
-       getAllSubSequance(nums, index, output, ans);
-      
-       return ans;
-    }
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> output = new ArrayList<>();
 
-    
-    public static void getAllSubSequance(int[] s, int index, List<Integer> output, List<List<Integer>> ans) {
-        if(index >= s.length) {
-           
-            ans.add(new ArrayList<>(output)); 
+        int index = 0;
+        solve(nums, output, ans, index );
+
+        return ans;
+
+
+    }
+    public static void solve(int[] nums, List<Integer> output, List<List<Integer>> ans, int index){
+
+        if(index >= nums.length){
+            ans.add(new ArrayList<>(output));
             return;
+
         }
-        int ch = s[index];
-        output.add(ch);
+
+        int currentValue = nums[index];
+        output.add(currentValue);
         
-        getAllSubSequance(s, index+1, output, ans);
-        
-        
-        output.remove(output.size() - 1); 
-        getAllSubSequance(s, index+1, output, ans); 
+        solve(nums, output, ans, index+1);
+
+        output.remove(output.size() - 1);
+        solve(nums, output, ans, index+1);
     }
 }
