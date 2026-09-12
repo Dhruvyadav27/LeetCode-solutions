@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0392-is-subsequence) |
 | [3248-snake-in-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/3248-snake-in-matrix) |
@@ -160,10 +161,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0216-combination-sum-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
