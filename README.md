@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruvyadav27/DSA-problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Dhruvyadav27/DSA-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3248-snake-in-matrix](https://github.com/Dhruvyadav27/DSA-problems/tree/master/3248-snake-in-matrix) |
 ## String
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Dhruvyadav27/DSA-problems/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
