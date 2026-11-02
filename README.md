@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0410-split-array-largest-sum) |
 | [0498-diagonal-traverse](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0498-diagonal-traverse) |
 | [0875-koko-eating-bananas](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0875-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruvyadav27/DSA-problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -69,16 +70,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dhruvyadav27/DSA-problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -220,4 +225,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Dhruvyadav27/DSA-problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
